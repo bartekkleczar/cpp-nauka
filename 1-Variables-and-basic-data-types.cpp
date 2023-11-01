@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int main1() {
 
     //integer -> whole number
     int age = 21;
