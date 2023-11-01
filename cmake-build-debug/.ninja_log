@@ -1,0 +1,7 @@
+# ninja log v5
+11	506	7205673715088884	CMakeFiles/nauka.dir/main.cpp.obj	4b6f357ae5c174f9
+1	518	7205673715209801	CMakeFiles/nauka.dir/1-Variables-and-basic-data-types.cpp.obj	df5b1a6b1a5fe08f
+1	160	7205675994275204	build.ninja	b1b3e36ea13997d
+3	128	7205675114375964	nauka.exe	235e22dd1c68856a
+4	418	7205679530202472	CMakeFiles/nauka.dir/1-Variables-and-basic-data-types.cpp.obj	df5b1a6b1a5fe08f
+419	580	7205679531765002	nauka.exe	235e22dd1c68856a
