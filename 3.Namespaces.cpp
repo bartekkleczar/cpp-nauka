@@ -7,9 +7,14 @@ namespace second{
     int x = 2;
 }
 int main(){
+    using namespace first;
+    using std::string;
+    using std::cout;
+    //using namespace std;
 
-    int x = 0;
-    std::cout << x << first::x << second::x;
+    string name = "Bartek";
+
+    cout << x << second::x << name;
 
     return 0;
 }
