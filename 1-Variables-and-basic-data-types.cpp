@@ -2,16 +2,36 @@
 
 int main() {
 
-    /*int x; //declaration
-    x = 5;*/
+    //integer -> whole number
+    int age = 21;
+    int year = 2023;
+    int days = 7;
 
-    int x = 5;
-    int y = 6;
-    int sum = x + y;
+    //double -> decimal number
 
-    std::cout << x << '\n';
-    std::cout << y << '\n';
-    std::cout << sum << '\n';
+    double price = 10.99;
+    double gpa = 2.5;
+    double temperature = 25.1;
+
+    //char -> single character
+
+    char grade = 'A';
+    char initial = 'C';
+    char currency = '$';
+
+    //boolean -> true || false
+
+    bool student = false;
+    bool power = true;
+
+    //string -> texts
+
+    std::string name = "Bartek";
+    std::string day = "Friday";
+
+    std::cout << "Hello " << name << "\n";
+    std::cout << "You are " << age << " years old";
+
 
     return 0;
 }
