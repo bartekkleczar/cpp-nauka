@@ -4,7 +4,7 @@
 using text_t = std::string;
 using number_t = int;
 
-int main(){
+int main4(){
     using std::cout;
 
     text_t firstName = "Bartek";
