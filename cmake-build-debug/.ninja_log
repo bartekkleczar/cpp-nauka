@@ -1,8 +1,13 @@
 # ninja log v5
 11	506	7205673715088884	CMakeFiles/nauka.dir/main.cpp.obj	4b6f357ae5c174f9
-3	469	7205687670978411	CMakeFiles/nauka.dir/1-Variables-and-basic-data-types.cpp.obj	df5b1a6b1a5fe08f
-1	160	7205688559411678	build.ninja	b1b3e36ea13997d
-470	668	7205687672875181	nauka.exe	235e22dd1c68856a
-12	443	7205689708255796	CMakeFiles/nauka.dir/2.Const.cpp.obj	a3e6c9ade5c4f6a8
 5	452	7205689708345365	CMakeFiles/nauka.dir/1-Variables-and-basic-data-types.cpp.obj	df5b1a6b1a5fe08f
+1	160	7205691511051307	build.ninja	b1b3e36ea13997d
 453	628	7205689710057648	nauka.exe	fd126608ef0a82c7
+12	443	7205689708255796	CMakeFiles/nauka.dir/2.Const.cpp.obj	a3e6c9ade5c4f6a8
+8	424	7205692971472593	CMakeFiles/nauka.dir/3.Namespaces.cpp.obj	e52d94ddc29a79f5
+3	435	7205692971581074	CMakeFiles/nauka.dir/2.Const.cpp.obj	a3e6c9ade5c4f6a8
+435	615	7205692973335277	nauka.exe	3be3a4488110f41f
+4	418	7205693147695254	CMakeFiles/nauka.dir/3.Namespaces.cpp.obj	e52d94ddc29a79f5
+419	574	7205693149201242	nauka.exe	3be3a4488110f41f
+3	397	7205693450412283	CMakeFiles/nauka.dir/3.Namespaces.cpp.obj	e52d94ddc29a79f5
+398	557	7205693451959961	nauka.exe	3be3a4488110f41f
