@@ -7,4 +7,5 @@ add_executable(nauka 1.Variables-and-basic-data-types.cpp
         2.Const.cpp
         3.Namespaces.cpp
         4.Typedef-and-type-aliases.cpp
-        5.Arithmetic-operators.cpp)
+        5.Arithmetic-operators.cpp
+        6.Type-conversion.cpp)
